@@ -1,0 +1,21 @@
+Inheritance : pewarisan pada penyusunan program
+menurunkan properti dan methode/behavior serta memanfaatkan fitur code reuse
+untuk menghindari terjadinya duplikasi kode program
+
+
+Konsep inheritance membuat sebuah struktur / hierarki class
+1. parent class atau super class (yg menurunkan)
+2. child class atau sub class (yg menerima)
+
+Terdapat 4 tipe inheritance
+1. Single Inheritance
+
+2. Multiple Inheritance
+extendsnya beruntut
+
+3. Hiearachical Inheritance 
+extends turun berdasarkan jenis class misal pembagian perilaku hewan
+
+4. 
+
+Final Class = Class yang tidak bisa diextend atau sudah final

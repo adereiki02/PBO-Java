@@ -1,0 +1,14 @@
+abstract class = class yang tidak bisa dibuat menjadi objek dan bersifat sebagai 
+kerangka dasar / hanya template
+
+abstract method = terdapat di dalam class sebagai method dasar / hanya template
+
+abstract tersebut harus diisi di anak class agar memiliki atribut
+
+Abstract class digunakan dalam inheritance (pewarisan class) 
+
+Kegunaan Abstract Class : 
+- Melengkapi implementasi method 
+- Mendefinisikan behavior secara umum sebagai superclass/parentclass, yang subclass menyediakan
+implementasi detail
+- Jika class abstract semua method merupakan method abstract, sebaiknya diganti menjadi interface

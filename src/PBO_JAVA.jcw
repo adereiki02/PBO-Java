@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>PBO_JAVA</label>
+	</settings>
+	<users>
+		<user>
+			<path>PBO_JAVA.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>PBO_JAVA.jcp</path>
+		</project>
+	</projects>
+</workspace>

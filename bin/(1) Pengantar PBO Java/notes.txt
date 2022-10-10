@@ -1,0 +1,19 @@
+konsep exception : notifikasi / proses untuk mengecek apakah itu benar atau salah
+menggunakan GUI  : tampilan program
+konsep package   : 
+menjelaskan dan membuat aplikasi dengan konek ke database :
+
+Pemrograman Fungsional : dibangun dengan menyusun fungsi
+(kalkulator)
+
+Pemrograman Prosedural : dibangun dengan serangkaian perintah 
+(urut ada operator)
+
+PBO : dibangun dengan berdasarkan objek yang berisi data
+
+Pemrograman Deklaratif : 
+
+Rumpun Java :
+- J2EE (enterprise edition)
+- J2ME 
+- J2SE (standard edition)

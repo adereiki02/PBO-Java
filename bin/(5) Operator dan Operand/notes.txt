@@ -1,0 +1,1 @@
+Ternary sebagai pengganti pernyataan if-then-else

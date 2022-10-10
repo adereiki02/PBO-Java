@@ -1,0 +1,42 @@
+Kontrol kondisi
+- If else bisa pakai range nilai (80 s/d 100) , 
+- Switch berdasarkan case (integer atau karakter tetap) dan terdapat break; sebagai
+penghenti program jika case benar 
+
+ciri - ciri 
+if else percabangan
+switch hirearki 
+
+Kontrol Pengulangan
+1. While , metode perulangannya belum kita ketahui ada berapa proses perulangan sehingga 
+akan melakukan pengecekan terlebih dahulu terhadap suatu kondisi kondisi 
+
+2.Do While , metode perulangannya dieksekusi terlebih dahulu kemudian melakukan
+pengecekan kondisi
+
+3. For , metode perulangannya dieksekusi berdasarkan 3 ekspresi
+- Inisialisai Ekspresi/Nilai Awal (i=0)
+- Kondisi Perulangan (i<10)
+- Step Ekspresi (i++)
+
+Brancing Statement
+- Break
+ > untuk mengakhiri statement switch maupun for, while, do while
+
+- Continue
+ > untuk mengskip bagian kondisi tertentu misal if ( i == 5) continue;
+
+- Return
+ > untuk mengembalikan nilai ke sebuah fungsi dari hasil eksekusi
+
+Input dari keyboard 
+1. Kelas scanner, untuk perhitungan matematika 
+import java.util.Scanner
+
+2. Kelas BufferedReader, perlu dikonversikan sebelum perhitungan matematika. 
+Cenderung dibaca karakter/string
+menerima inputan dari keyboard
+
+3. GUI / JoptionPane, digunakan untuk input dan output data berbasis GUI swing
+berupa dialog box
+

@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FBarang06455",
+            "request": "launch",
+            "mainClass": "FBarang06455",
+            "projectName": "UASPraktikum_fcafc3ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch FJual06455",
+            "request": "launch",
+            "mainClass": "FJual06455",
+            "projectName": "UASPraktikum_fcafc3ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch FPenjualan",
+            "request": "launch",
+            "mainClass": "FPenjualan",
+            "projectName": "UASPraktikum_fcafc3ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch FPegawai",
+            "request": "launch",
+            "mainClass": "FPegawai",
+            "projectName": "UASPraktikum_fcafc3ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch FBarang",
+            "request": "launch",
+            "mainClass": "FBarang",
+            "projectName": "UASPraktikum_fcafc3ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "UASPraktikum_fcafc3ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch FBarang06367",
+            "request": "launch",
+            "mainClass": "FBarang06367",
+            "projectName": "UASPraktikum_fcafc3ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch FJual06367",
+            "request": "launch",
+            "mainClass": "FJual06367",
+            "projectName": "UASPraktikum_fcafc3ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch FPegawai06367",
+            "request": "launch",
+            "mainClass": "FPegawai06367",
+            "projectName": "UASPraktikum_fcafc3ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestKoneksiDBMS",
+            "request": "launch",
+            "mainClass": "TestKoneksiDBMS",
+            "projectName": "UASPraktikum_fcafc3ab"
+        }
+    ]
+}

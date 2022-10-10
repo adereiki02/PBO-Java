@@ -1,0 +1,71 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>PBO JAVA</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>PBO JAVA</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>(1) Pengantar PBO Java</path>
+			</folderitem>
+			<folderitem>
+				<path>(10) Praktik 5</path>
+			</folderitem>
+			<folderitem>
+				<path>(10) Praktik 5\(20) Praktik 10</path>
+			</folderitem>
+			<folderitem>
+				<path>(14) Praktik 7</path>
+			</folderitem>
+			<folderitem>
+				<path>(16) Praktik 8</path>
+			</folderitem>
+			<folderitem>
+				<path>(17) Interface</path>
+			</folderitem>
+			<folderitem>
+				<path>(3) Tipe Data</path>
+			</folderitem>
+			<folderitem>
+				<path>(4) Praktik 2</path>
+			</folderitem>
+			<folderitem>
+				<path>(6) Praktik 3</path>
+			</folderitem>
+			<folderitem>
+				<path>(6) Praktik 3\(12) Praktik 6</path>
+			</folderitem>
+			<folderitem>
+				<path>(8) Praktik 4</path>
+			</folderitem>
+			<folderitem>
+				<path>UTS</path>
+			</folderitem>
+			<folderitem>
+				<path>(18) Praktik 9</path>
+			</folderitem>
+			<folderitem>
+				<path>(2) Praktik 1</path>
+			</folderitem>
+			<folderitem>
+				<path>(20) Praktik 10</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>(20) Praktik 10\FBarang.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>(20) Praktik 10\Barang6435.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
